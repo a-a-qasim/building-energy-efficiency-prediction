@@ -87,7 +87,6 @@ The interactive dashboard includes:
     ├── models/
     │   ├── heating_model.pkl
     │   └── cooling_model.pkl
-    └── figures/
 
 ## Installation and Usage
 
